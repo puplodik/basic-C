@@ -18,14 +18,6 @@
 
 # Linux
 
-Для запуска игры на Linux вам необходимо скачать компилятор gcc:
+Протестировать игру на Linux можно в онлайн компиляторе Linux C :
 
-- `sudo apt update`
-- `sudo apt install build-essential`
-Затем скомпилируйте файл с исходным кодом:
-
-- `gcc RabbitChase.c -o game` где game это имя скомпилированного файла
-Затем запустите:
-
-- `./game` для запуска игры.
-
+![image](https://user-images.githubusercontent.com/78842344/207068887-b814b4dd-fdd8-4f65-90e8-72feb53c2975.png)
