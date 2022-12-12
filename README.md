@@ -13,3 +13,5 @@
 + `./make.bat`
 
 Запустится приложение `a.exe`:
+![image](https://user-images.githubusercontent.com/78842344/207067657-fd1e286d-818c-4e4b-a7c3-2c5823c7db77.png)
+
