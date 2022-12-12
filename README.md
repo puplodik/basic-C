@@ -15,3 +15,16 @@
 Запустится приложение `a.exe`:
 ![image](https://user-images.githubusercontent.com/78842344/207067657-fd1e286d-818c-4e4b-a7c3-2c5823c7db77.png)
 
+# Linux
+
+Для запуска игры на Linux вам необходимо скачать компилятор gcc:
+
+- `sudo apt update`
+- `sudo apt install build-essential`
+Затем скомпилируйте файл с исходным кодом:
+
+- `gcc RabbitChase.c -o game` где game это имя скомпилированного файла
+Затем запустите:
+
+- `./game` для запуска игры.
+
