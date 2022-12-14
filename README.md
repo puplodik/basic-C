@@ -21,3 +21,24 @@
 Протестировать игру на Linux можно в онлайн компиляторе Linux C :
 
 ![image](https://user-images.githubusercontent.com/78842344/207068887-b814b4dd-fdd8-4f65-90e8-72feb53c2975.png)
+
+# WEB
+
+Инструкции по установке с использованием emsdk
+
+Основной драйвер Emscripten SDK (emsdk) представляет собой сценарий Python. Вы можете получить его в первый раз с
+
+#Get the emsdk repo
+
+git clone https://github.com/emscripten-core/emsdk.git
+
+#Enter that directory
+
+`cd emsdk`
+Выполните следующие команды emsdk, чтобы получить последние инструменты с GitHub и сделать их активными:
+
+- `git pull`
+- `./emsdk install latest`
+- `./emsdk activate latest`
+- `source ./emsdk_env.sh`
+В Windows запустите emsdk вместо `./emsdk` и `emsdk_env.bat` вместо исходного `./emsdk_env.sh.`
