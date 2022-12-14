@@ -42,3 +42,5 @@ git clone https://github.com/emscripten-core/emsdk.git
 - `./emsdk activate latest`
 - `source ./emsdk_env.sh`
 В Windows запустите emsdk вместо `./emsdk` и `emsdk_env.bat` вместо исходного `./emsdk_env.sh.`
+
+![image](https://user-images.githubusercontent.com/78842344/207717729-fd6e0705-7689-4599-a647-4d74280ece25.png)
